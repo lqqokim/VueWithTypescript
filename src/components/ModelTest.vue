@@ -1,5 +1,6 @@
 <template>
     <div>
+        <h1>Model Test</h1>
         <p>{{checked ? 'ON' : 'OFF'}}</p>
         <P>
             <button @click="changed()">토글</button>

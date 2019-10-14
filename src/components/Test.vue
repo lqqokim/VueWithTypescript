@@ -1,5 +1,6 @@
 <template>
     <div>
+        <h1>Vue Property</h1>
         <p>name: {{name}}</p>
         <p>fullName: {{fullName}}</p>
         <p>age: {{age}}</p>

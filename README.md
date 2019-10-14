@@ -1,5 +1,9 @@
 # vue-class-component
 
+## Reference
+[Vue.ts Cookbook](https://www.notion.so/Vue-ts-Cookbook-8de3197fa15b40b39297f66e08e62c4a)
+
+
 ## Project setup
 ```
 yarn install
